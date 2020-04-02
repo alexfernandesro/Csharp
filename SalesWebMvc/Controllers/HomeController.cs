@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using SalesWebMvc.Models;
 
-namespace SalesWebMvc.Controllers
+namespace SalesWebMvc.Models.ViewModels
 {
     public class HomeController : Controller
     {
